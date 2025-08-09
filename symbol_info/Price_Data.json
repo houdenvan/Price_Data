@@ -1,0 +1,12 @@
+{
+    "currency": "",
+    "description": [
+        "Lithium Price Monthly",
+    ],
+    "pricescale": [
+        1
+    ],
+    "symbol": [
+        "LITHIUM_PRICE_M"
+    ]
+}
